@@ -24,7 +24,7 @@ Follow the steps below to install and set up the project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SamirMamede/django-auth-system.git
+   git clone https://github.com/20P11A0436/django-auth-system.git
 2. Navigate to the project directory.
 3. Create a virtual environment (optional but recommended):
    ```bash
